@@ -7,6 +7,7 @@ namespace WebUI.Controllers
     public class DefaultController : Controller
     {
 
+
         [HttpGet]
         public IActionResult Index()
         {
